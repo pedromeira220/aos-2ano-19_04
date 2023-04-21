@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pedro-id-1",
+    "name": "Pedro Meira",
+    "username": "pedromeira220",
+    "email": "pedro@email.com"
+  },
+  {
+    "id": "john-id-1",
+    "name": "John Doe",
+    "username": "johndoe378",
+    "email": "john@email.com"
+  },
+  {
+    "id": "fulano-id-1",
+    "name": "Fulano de Tal",
+    "username": "fulano89243",
+    "email": "fulano@email.com"
+  },
+  {
+    "id": "ciclano-id-1",
+    "name": "Ciclano Silva",
+    "username": "ciclano_silva",
+    "email": "ciclano@email.com"
+  },
+  {
+    "id": "joao-id-1",
+    "name": "Joao",
+    "username": "joao_",
+    "email": "joao@email.com"
+  }
+]

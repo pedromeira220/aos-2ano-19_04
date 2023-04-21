@@ -1,0 +1,44 @@
+[
+  {
+    "id": "post-1",
+    "text": "Um post teste",
+    "userId": "pedro-id-1",
+    "likesCount": 65
+  },
+  {
+    "id": "post-2",
+    "text": "Outro post feito pelo Pedro Meira",
+    "userId": "pedro-id-1",
+    "likesCount": 78
+  },
+  {
+    "id": "post-3",
+    "text": "Um outro post na rede social",
+    "userId": "john-id-1",
+    "likesCount": 912
+  },
+  {
+    "id": "post-4",
+    "text": "Teste 1231231123123. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sollicitudin aliquam velit, et varius diam pretium vel. Morbi faucibus posuere fringilla. Vivamus rhoncus erat eu dolor fringilla dictum.",
+    "userId": "john-id-1",
+    "likesCount": 563
+  },
+  {
+    "id": "post-5",
+    "text": "Olá",
+    "userId": "ciclano-id-1",
+    "likesCount": 164
+  },
+  {
+    "id": "post-6",
+    "text": "Opa, testando aqui a rede social",
+    "userId": "ciclano-id-1",
+    "likesCount": 265
+  },
+  {
+    "id": "post-7",
+    "text": "Mais um post feito pelo Pedro Meira",
+    "userId": "pedro-id-1",
+    "likesCount": 43
+  }
+]
